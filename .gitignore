@@ -79,3 +79,14 @@ GTAGS
 *.orig
 *~
 \#*#
+
+# user specified ignore
+out/*
+out_cm/*
+cm-mkzip.sh
+jb-cm-att-mkzip.sh
+jb-cm-vzw-mkzip.sh
+tw-mkzip.sh
+jb-att-tw-mkzip.sh
+jb-cm-mkzip.sh
+jb-vzw-tw-mkzip.sh
